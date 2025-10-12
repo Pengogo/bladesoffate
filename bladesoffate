@@ -1,0 +1,17 @@
+{
+  "title": "Blades of Fate",
+  "description": "A man's attempts to live peacefully in a war weary world",
+  "artist": "Various Artists",
+  "author": "Various Artists",
+  "cover": "https://cdn.imgchest.com/files/6e9d0ba9ec55.png",
+  "chapters": {
+    "1": {
+      "title": "The Roster",
+      "volume": "1",
+      "groups": {
+        "The Players": "/proxy/api/imgchest/chapter/agyvxwanw78/"
+      },
+      "last_updated": "1616368746"
+    }
+}
+}
