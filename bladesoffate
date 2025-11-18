@@ -20,6 +20,22 @@
         "The Players": "/proxy/api/imgchest/chapter/o24a2m8g27l/"
       },
       "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "Round 2",
+      "volume": "3",
+      "groups": {
+        "The Players": "/proxy/api/imgchest/chapter/md7oaol5dyp/"
+      },
+      "last_updated": "1616368746"
+    },
+    "4": {
+      "title": "Exhibitions",
+      "volume": "4",
+      "groups": {
+        "The Players": "/proxy/api/imgchest/chapter/ljyqalnzo72/"
+      },
+      "last_updated": "1616368746"
     }
 }
 }
