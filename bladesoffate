@@ -38,8 +38,16 @@
       "last_updated": "1616368746"
     },
     "5": {
-      "title": "Exhibitions",
+      "title": "Intermissions",
       "volume": "5",
+      "groups": {
+        "The Players": "/proxy/api/imgchest/chapter/ej7mexggjyd/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "Exhibitions",
+      "volume": "6",
       "groups": {
         "The Players": "/proxy/api/imgchest/chapter/ljyqalnzo72/"
       },
