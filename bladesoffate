@@ -70,8 +70,16 @@
       "last_updated": "1616368746"
     },
     "9": {
-      "title": "Exhibitions",
+      "title": "Round 7",
       "volume": "9",
+      "groups": {
+        "The Players": "/proxy/api/imgchest/chapter/lqyewzq5xyd/"
+      },
+      "last_updated": "1616368746"
+    },
+    "10": {
+      "title": "Exhibitions",
+      "volume": "10",
       "groups": {
         "The Players": "/proxy/api/imgchest/chapter/ljyqalnzo72/"
       },
